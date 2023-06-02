@@ -1,0 +1,79 @@
+.body{
+    all: unset;
+    
+    background-color:#202124;
+    
+}
+.div-botoes{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 40px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    margin: 15px 15px;
+   
+
+}
+
+.div-botoes img {
+    border-radius: 50%;
+}
+
+.conteudo{
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+   align-items: center;
+   height: calc(100vh - 40px);
+}
+.imagens-google{
+    
+
+}
+.pesquisa{ 
+    display: flex;
+
+
+}
+.butao{
+    margin-top: 5px;
+
+}
+
+.butao button {
+    background: #303134;
+    color: white;
+    border: none;
+    padding: 7px;
+    border-radius: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 11px 4px;
+    border: 1px solid #303134;
+
+    
+}
+a{
+ text-decoration: none;
+ font-size: 10px;
+font-weight: 400;
+}
+a:visited{
+    color: aliceblue;
+}
+.espaco{
+    margin: 5px;
+}
+.espaco2{
+    margin: 5px;
+}
+#busca{
+    display: flex;
+    border-radius: 30px;
+    color: aliceblue;
+    background-color: #303134;
+    outline: none;
+    border: 1px solid gray;
+    padding: 8px 16px;
+}
