@@ -38,6 +38,7 @@ body * {
  width: 360px;
  margin: 56px auto 0px;
 
+ max-width: 588px;
  padding-top: 56px;
 
 }
